@@ -1,0 +1,18 @@
+print("Weclome to name generator\nThis is a name generator for your band") #"" shows the begening and the end of the string
+#input function: ask the user to enter some data and use the data
+a = input("Enter your name ")
+b = input("Enter your city name ")
+c = input("Enter your pet name ")
+
+#String concatination is done with the help of + as in line 8
+print(a+' '+b+' '+c)
+
+# Check thony.org it will help the execution of code
+# from lines 2 to 8 can be written in one line
+# cmd and forwad slash for commenting and uncomenting a line of code
+
+print('doing it the second way')
+print(input("Enter your name ")+' '+input("Enter your city name ")+' '+input("Enter your pet name "))
+
+print("----------new tassk print the length of a string---------------")
+print(len(input("Enter your name ")))
