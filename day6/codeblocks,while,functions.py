@@ -1,0 +1,2 @@
+#Functions
+gereduce the 
